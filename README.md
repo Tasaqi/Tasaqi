@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/tanveer-ahmed-bb8694164/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/10vir72" target="_blank">
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I am experienced Django backend and Django REST Framework (DRF) developer with a strong background in PostgreSQL, Celery, Kafka, and Airflow, I offer a unique blend of technical expertise and hands-on experience that can help you bring your application to the next level.<br><br>- 🔭 I’m working as  python, Djanog, Flask, Kafka, <br>- 📚 I'm currently learning Airflow, FastAPI , Dockers<br>- ⚡ In my free time I play CHESS</p>
+<p align="left">I am experienced Django backend and Django REST Framework (DRF) developer with a strong background in PostgreSQL, Celery, Kafka, and Airflow, I offer a unique blend of technical expertise and hands-on experience that can help you bring your web application to the next level.<br><br>- 🔭 I’m working as  python, Djanog, Flask, Kafka, <br>- 📚 I'm currently learning Airflow, FastAPI , Dockers<br>- ⚡ In my free time I play CHESS</p>
 
 ###
 
@@ -49,3 +49,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" width="52" alt="confluence logo"  />
 </div>
+
+###
