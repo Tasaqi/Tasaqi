@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I am experienced Django backend and Django REST Framework (DRF) developer with a strong background in PostgreSQL, Celery, Kafka, and Airflow, I offer a unique blend of technical expertise and hands-on experience that can help you bring your web application to the next level.<br><br>- 🔭 I’m working as  python, Djanog, Flask, Kafka, <br>- 📚 I'm currently learning Airflow, FastAPI , Dockers<br>- ⚡ In my free time I play CHESS</p>
+<p align="left">I am experienced Django backend and Django REST Framework (DRF) developer with a strong background in PostgreSQL, Celery, Kafka, and Airflow, I offer a unique blend of technical expertise and hands-on experience that can help you bring your application to the next level.<br><br>- 🔭 I’m working as  python, Djanog, Flask, Kafka, <br>- 📚 I'm currently learning Airflow, FastAPI , Dockers<br>- ⚡ In my free time I play CHESS</p>
 
 ###
 
